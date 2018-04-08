@@ -26,7 +26,15 @@ jupyter notebook
 ```
 Just make sure you are in the folder which contains the .ipynb file.  The notebook will appear in a web browser.
 
-The python packages I use in this project are [pandas](https://pandas.pydata.org/), [numpy](http://www.numpy.org/) and [matplotlib](https://matplotlib.org/).  Using the .yaml file I've provided to create your environment or installing the packages in the requirements.txt file should make things good to go with using these packages.
+The python packages I use in this project are [pandas](https://pandas.pydata.org/), [numpy](http://www.numpy.org/) and [matplotlib](https://matplotlib.org/).  Using the .yaml file I've provided to create your environment or installing the packages in the requirements.txt file should make things good to go with using these packages.  I refer you to the links I've provided for documentation and tutorials on each of these packages.
+
+# How to make contributions
+I am certainly open to contributions from others as this project moves forward.  To contribute, first clone the repository onto your local machine by running the following command in git:
+```
+git clone https://github.com/brown2b5/Testing-a-Perceptual-Phenomenon---Stroop-effect
+```
+
+After making changes to the project, submit a pull request and we will discuss the possibility of merging the changes to the master branch.
 
 
 ####                       **References**
