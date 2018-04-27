@@ -38,40 +38,40 @@ After making changes to the project, submit a pull request and we will discuss t
 
 # License and copyright
 
-###### Pandas
+### Pandas
 Copyright (c) 2008-2012, AQR Capital Management, LLC, Lambda Foundry, Inc. and PyData Development Team
 
 Licensed under the [BSD 3-Clause License](https://github.com/brown2b5/Testing-a-Perceptual-Phenomenon---Stroop-effect/blob/master/PANDAS%20License.txt).
 
-###### matplotlib
+### matplotlib
 © Copyright 2002 - 2012 John Hunter, Darren Dale, Eric Firing, Michael Droettboom and the Matplotlib development team; 2012 - 2018
 
 Licensed under the [PSF License](https://github.com/brown2b5/Testing-a-Perceptual-Phenomenon---Stroop-effect/blob/master/MATPLOTLIB%20License.txt).
 
-###### Python
+### Python
 Copyright © 2001-2018 Python Software Foundation; All Rights
 Reserved
 
 Licensed under the [PSF License](https://github.com/brown2b5/Testing-a-Perceptual-Phenomenon---Stroop-effect/blob/master/PYTHON%20License.txt).
 
-###### Anaconda
+### Anaconda
 
 (c) 2017 Continuum Analytics, Inc. (dba Anaconda, Inc.). https://www.anaconda.com. All Rights Reserved
 
 Licensed under [BSD 3-Clause License](https://github.com/brown2b5/Testing-a-Perceptual-Phenomenon---Stroop-effect/blob/master/CONDA%20License.txt).
 
-###### Jupyter
+### Jupyter
 
 Copyright 2018 Project Jupyter
 
 Licensed under [BSD 3-Clause License](https://github.com/brown2b5/Testing-a-Perceptual-Phenomenon---Stroop-effect/blob/master/JUPYTER%20License.txt).
 
-###### Numpy
+### Numpy
 
 Copyright (c) 2005, NumPy Developers
 
 Licensed under [Numpy License](https://github.com/brown2b5/Testing-a-Perceptual-Phenomenon---Stroop-effect/blob/master/NUMPY%20License.txt).
 
 
-####                       **References**
+#                       **References**
 Reference 1: https://www.psytoolkit.org/lessons/stroop.html
